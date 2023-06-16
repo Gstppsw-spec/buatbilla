@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/buatbilla/static/css/main.398e9db4.css",
+    "main.js": "/buatbilla/static/js/main.2d1b5b4e.js",
+    "static/js/787.ca6b60a3.chunk.js": "/buatbilla/static/js/787.ca6b60a3.chunk.js",
+    "static/media/unyu-lima.gif": "/buatbilla/static/media/unyu-lima.63509b53b88820b58b35.gif",
+    "static/media/unyu-empat.gif": "/buatbilla/static/media/unyu-empat.52a12df6da52e40df778.gif",
+    "static/media/unyu-tiga.gif": "/buatbilla/static/media/unyu-tiga.d01f52ff97bbb017b522.gif",
+    "static/media/unyu-dua.gif": "/buatbilla/static/media/unyu-dua.7daa8da20344a9f74ec4.gif",
+    "static/media/unyu-tujuh.gif": "/buatbilla/static/media/unyu-tujuh.462ec3cad85d31dc07f7.gif",
+    "static/media/unyu.gif": "/buatbilla/static/media/unyu.8dc2be474a9dcb2c8765.gif",
+    "index.html": "/buatbilla/index.html",
+    "main.398e9db4.css.map": "/buatbilla/static/css/main.398e9db4.css.map",
+    "main.2d1b5b4e.js.map": "/buatbilla/static/js/main.2d1b5b4e.js.map",
+    "787.ca6b60a3.chunk.js.map": "/buatbilla/static/js/787.ca6b60a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.398e9db4.css",
+    "static/js/main.2d1b5b4e.js"
+  ]
+}
